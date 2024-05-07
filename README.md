@@ -26,8 +26,8 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
-Name: Praveen D
-Ref.no: 212222240076
+Name: Kishore B
+Ref.no: 212223240073
 ```
 ```
 <!DOCTYPE html>
@@ -87,9 +87,8 @@ Ref.no: 212222240076
 ```
 
 ## OUTPUT:
-![WD 8 1](https://github.com/praveenmax55/Calc/assets/113497509/408a001a-e4c1-4493-a750-1a4f78b79e63)
+![image](https://github.com/codedbykishore/Calc/assets/147139122/c8ca05ae-8b00-46b9-a8c6-c024c6c1aeb8)
 
-![WD 8 2](https://github.com/praveenmax55/Calc/assets/113497509/fe574a84-e7b2-47eb-887a-3d1f3ee7bea5)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
